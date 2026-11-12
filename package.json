@@ -1,0 +1,23 @@
+{
+  "name": "about_page_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlauterio/About_Page_Tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jlauterio/About_Page_Tests/issues"
+  },
+  "homepage": "https://github.com/jlauterio/About_Page_Tests#readme",
+  "devDependencies": {
+    "@playwright/test": "1.65.0",
+    "@types/node": "26.6.6"
+  }
+}
